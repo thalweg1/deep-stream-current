@@ -1,2 +1,2 @@
 # deep-stream-current
-Metrics evaluation engine
+Operational performance metrics evaluation engine
